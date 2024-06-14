@@ -1,0 +1,23 @@
+[
+  {
+    "apellido": "Bergandi",
+    "nombre": "Jorge",
+    "dni": "123456789",
+    "email": "jorge.bergandi@example.com",
+    "id": 1
+  },
+  {
+    "apellido": "Merge",
+    "nombre": "Pablo",
+    "dni": "123456789",
+    "email": "pablo.merge@example.com",
+    "id": 2
+  },
+  {
+    "apellido": "Otro",
+    "nombre": "Nombre",
+    "dni": "33333333333333",
+    "email": "otro.nombre@example.com",
+    "id": 3
+  }
+]
